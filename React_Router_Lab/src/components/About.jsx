@@ -6,7 +6,7 @@ function About() {
 
     return (
         <div className="neon-container">
-            <h1 className="type-effect">This is About page</h1> 
+            <h1 className="type-effect">This is About Page</h1> 
             <button onClick={() => navigate("/")}>Redirect</button>
         </div>
     )

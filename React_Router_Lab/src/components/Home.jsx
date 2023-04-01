@@ -3,7 +3,7 @@ import "../App.css"
 function Home() {
     return (
         <div className="neon-container">
-            <h1 className="type-effect">Hello World</h1>
+            <h1 className="type-effect">This is Home Page</h1>
             <button>Login</button>
         </div>
     )
